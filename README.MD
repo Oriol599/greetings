@@ -12,7 +12,7 @@ go get -u github.com/alexroel/greetings
 ## Uso
 Aquí tienes un ejemplo de cómo utilizar el paquete en tu código:
 
-```javascript
+```go
 package main
 
 import (
