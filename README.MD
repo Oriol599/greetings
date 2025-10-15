@@ -32,4 +32,4 @@ func main() {
 }
 
 ```
--[x] Este ejemplo importa el paquete github.com/alexroel/greetings y llama a la función Hello para obtener un saludo personalizado. Si ocurre un error, se imprime un mensaje de error.
+Este ejemplo importa el paquete github.com/alexroel/greetings y llama a la función Hello para obtener un saludo personalizado. Si ocurre un error, se imprime un mensaje de error.
